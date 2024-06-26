@@ -1,8 +1,6 @@
 # Backend en Nest
 ```
-docker compose up -dd
+docker compose up -d
 ```
-
-jasodjoasjdoas
 
 Copiar el ```.env.template``` y renombrarlo a ```.env```
